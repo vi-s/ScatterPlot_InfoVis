@@ -1,6 +1,6 @@
 /*
 InfoVis - Spring 2014
-Completed by: Vikram Somu and Nick Adams
+Completed by: Vikram Somu
 */
 
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
